@@ -12,4 +12,4 @@ jobs:
       - name: Run multiple commands 
         run: |
           echo "Hello Github"
-          echo "This is job1
+          echo "This is job1"
